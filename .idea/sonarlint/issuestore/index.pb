@@ -4,16 +4,10 @@
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 7
 LICENSE,0/3/0398ccd0f49298b10a3d76a47800d2ebecd49859
-@
-account/forms.py,b/8/b8e2f96492aecc66a1bafc71d69f5ca62bb068a0
 S
 #account/static/account/css/main.css,b/a/baca7349dc1cac040b6778122f810a1de11468d1
 ^
 .account/templates/registration/logged_out.html,3/5/357dfe12274c4cc0475eda95add7ad9d98a242e3
-T
-$account/templates/account/login.html,6/c/6cecc1addd3690120749d086b258cd1d52ebe412
-@
-account/views.py,5/8/584f03f4131c5dfe019da9d46a8e94181b3b5821
 X
 (account/templates/account/dashboard.html,4/9/498e132394fcc1dcbcb4d13bbd324d0a8d81325f
 T
@@ -26,8 +20,6 @@ h
 8account/templates/registration/password_reset_email.html,c/1/c115d5f653b5a35f50335df878f768dac9ddd941
 g
 7account/templates/registration/password_reset_done.html,5/d/5d99e36dba00c1c0dde7b0f7a395502019749487
-Y
-)account/templates/registration/login.html,2/0/206a1c28a5c074d0c897c2ee2ee36ad050c9dd0b
 k
 ;account/templates/registration/password_reset_complete.html,2/a/2a9bcbb503a7f3ccc598d0ef477d645d1f41c40e
 F
