@@ -1,4 +1,4 @@
-from django.urls import path, reverse_lazy
+from django.urls import path, reverse_lazy, include
 from django.contrib.auth import views as auth_views
 
 from . import views
@@ -9,8 +9,12 @@ urlpatterns = [
     # path("login/", views.user_login_view, name="login"),
     path("", views.dashboard_view, name="dashboard"),
 
-    path("login/", auth_views.LoginView.as_view(), name="login"),
-    path("logout/", auth_views.LogoutView.as_view(), name="logout"),
+    # Authentication urls
+    # path("login/", auth_views.LoginView.as_view(), name="login"),
+    # path("logout/", auth_views.LogoutView.as_view(), name="logout"),
+
+    # Use Django's authentication URLs
+    path("", include("django.contrib.auth.urls")),
 
     # Change password urls
     path("password_change/",
