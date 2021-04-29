@@ -22,7 +22,17 @@ g
 7account/templates/registration/password_reset_done.html,5/d/5d99e36dba00c1c0dde7b0f7a395502019749487
 k
 ;account/templates/registration/password_reset_complete.html,2/a/2a9bcbb503a7f3ccc598d0ef477d645d1f41c40e
-F
-socialmele/settings.py,3/b/3b45e82090a9559670cdfbe0910d75a19b16e076
 j
 :account/templates/registration/password_reset_confirm.html,b/c/bc97f4ccec14d21d350a8fa3d1ed203b5786de66
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+T
+$account/templates/account/login.html,6/c/6cecc1addd3690120749d086b258cd1d52ebe412
+\
+,account/templates/account/register_done.html,6/9/695f460be41f939560830ed5af7a9f8baca44748
+g
+7account/templates/registration/password_reset_form.html,c/7/c7a49d905a04475aac1ef0fefab6f4899a78f34f
+Y
+)account/templates/registration/login.html,2/0/206a1c28a5c074d0c897c2ee2ee36ad050c9dd0b
+W
+'account/templates/account/register.html,3/a/3aadf978709a291c84a8fe16c41b9ffddcfca763
