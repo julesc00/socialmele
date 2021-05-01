@@ -9,6 +9,7 @@ urlpatterns = [
     # path("login/", views.user_login_view, name="login"),
     path("", views.dashboard_view, name="dashboard"),
     path("register/", views.register_view, name="register"),
+    path("edit/", views.edit_view, name="edit"),
 
     # Authentication urls
     # path("login/", auth_views.LoginView.as_view(), name="login"),

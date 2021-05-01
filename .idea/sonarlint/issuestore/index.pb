@@ -10,8 +10,6 @@ S
 .account/templates/registration/logged_out.html,3/5/357dfe12274c4cc0475eda95add7ad9d98a242e3
 X
 (account/templates/account/dashboard.html,4/9/498e132394fcc1dcbcb4d13bbd324d0a8d81325f
-T
-$account/templates/account/_base.html,2/1/21f2de2371388858f600cf9f35f809248c8a4b64
 h
 8account/templates/registration/password_change_done.html,8/e/8ebcbdcfb60f70df76397450433fad3b8ee500b1
 h
@@ -36,3 +34,5 @@ Y
 )account/templates/registration/login.html,2/0/206a1c28a5c074d0c897c2ee2ee36ad050c9dd0b
 W
 'account/templates/account/register.html,3/a/3aadf978709a291c84a8fe16c41b9ffddcfca763
+B
+socialmele/urls.py,a/5/a544bfab8a0b36b9f7635cf4b69fe74af93f143d
