@@ -8,8 +8,6 @@ S
 #account/static/account/css/main.css,b/a/baca7349dc1cac040b6778122f810a1de11468d1
 ^
 .account/templates/registration/logged_out.html,3/5/357dfe12274c4cc0475eda95add7ad9d98a242e3
-X
-(account/templates/account/dashboard.html,4/9/498e132394fcc1dcbcb4d13bbd324d0a8d81325f
 h
 8account/templates/registration/password_change_done.html,8/e/8ebcbdcfb60f70df76397450433fad3b8ee500b1
 h
