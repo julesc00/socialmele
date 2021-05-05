@@ -34,3 +34,13 @@ W
 'account/templates/account/register.html,3/a/3aadf978709a291c84a8fe16c41b9ffddcfca763
 B
 socialmele/urls.py,a/5/a544bfab8a0b36b9f7635cf4b69fe74af93f143d
+S
+#account/templates/account/edit.html,5/8/589aadd444da65eaebce32bd8342831d25e91b7d
+X
+(account/templates/account/dashboard.html,4/9/498e132394fcc1dcbcb4d13bbd324d0a8d81325f
+@
+account/forms.py,b/8/b8e2f96492aecc66a1bafc71d69f5ca62bb068a0
+F
+socialmele/settings.py,3/b/3b45e82090a9559670cdfbe0910d75a19b16e076
+A
+account/models.py,9/9/9937dda3027dc290afca56146cdf71d4733d0e5b
