@@ -40,7 +40,5 @@ X
 (account/templates/account/dashboard.html,4/9/498e132394fcc1dcbcb4d13bbd324d0a8d81325f
 @
 account/forms.py,b/8/b8e2f96492aecc66a1bafc71d69f5ca62bb068a0
-F
-socialmele/settings.py,3/b/3b45e82090a9559670cdfbe0910d75a19b16e076
 A
 account/models.py,9/9/9937dda3027dc290afca56146cdf71d4733d0e5b
