@@ -32,8 +32,6 @@ Y
 )account/templates/registration/login.html,2/0/206a1c28a5c074d0c897c2ee2ee36ad050c9dd0b
 W
 'account/templates/account/register.html,3/a/3aadf978709a291c84a8fe16c41b9ffddcfca763
-B
-socialmele/urls.py,a/5/a544bfab8a0b36b9f7635cf4b69fe74af93f143d
 S
 #account/templates/account/edit.html,5/8/589aadd444da65eaebce32bd8342831d25e91b7d
 X
