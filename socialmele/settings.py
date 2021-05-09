@@ -129,6 +129,11 @@ EMAIL_BACKEND = "django.core.mail.backends.console.EmailBackend"
 AUTHENTICATION_BACKENDS = [
     "django.contrib.auth.backends.ModelBackend",
     "account.authentication.EmailAuthBackend",
+    "social_core.backends.facebook.FacebookOAuth2",
 ]
+
+SOCIAL_AUTH_FACEBOOK_KEY = "948927329198087"
+SOCIAL_AUTH_FACEBOOK_SECRET = "71d616852f82f38dc1781950de472e68"
+SOCIAL_AUTH_FACEBOOK_SCOPE = ["email"]
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'

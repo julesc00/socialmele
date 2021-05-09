@@ -26,4 +26,15 @@
         <p>Not registered yet? <a href="{% url 'account:register' %}">Register</a></p>
         <p><a href="{% url 'account:password_reset' %}">Forgotten your password?</a></p>
     </div>
+
+    <!-- Facebook login -->
+    <div class="social">
+        <ul>
+            <li class="facebook">
+                <a href="{% url 'social:begin' 'facebook' %}">
+                    Sig in with Facebook
+                </a>
+            </li>
+        </ul>
+    </div>
 {% endblock %}
